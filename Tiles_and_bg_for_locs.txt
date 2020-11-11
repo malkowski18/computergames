@@ -1,0 +1,61 @@
+https://assetstore.unity.com/packages/2d/gui/icons/hand-drawn-modular-icon-set-15977
+https://assetstore.unity.com/packages/2d/environments/pixel-potions-with-animation-118801
+https://assetstore.unity.com/packages/2d/gui/icons/2d-pixel-item-asset-pack-99645
+https://assetstore.unity.com/packages/2d/environments/fantasy-environment-and-animated-characters-pixel-art-free-add-o-42626
+
+1. Начальная локация, объяснение управления
+	https://assetstore.unity.com/packages/2d/characters/sunny-land-forest-108124
+	https://assetstore.unity.com/packages/2d/environments/trees-pixel-art-pack-20674
+
+2. Первый хаб, деревня персонажа
+	https://assetstore.unity.com/packages/2d/environments/pixel-art-platformer-village-props-166114
+	https://assetstore.unity.com/packages/2d/characters/sunny-land-forest-108124
+	https://assetstore.unity.com/packages/2d/environments/tiny-rpg-town-environment-88293
+	https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+
+3. Темный Лес 
+	https://assetstore.unity.com/packages/2d/textures-materials/nature/free-pixel-art-forest-133112
+	https://assetstore.unity.com/packages/2d/textures-materials/nature/alien-tile-set-116827
+
+4. Болото
+	https://assetstore.unity.com/packages/2d/environments/platformer-fantasy-set1-159063
+	https://assetstore.unity.com/packages/2d/characters/gothicvania-swamp-152865
+	https://assetstore.unity.com/packages/2d/environments/trees-pixel-art-pack-20674
+	https://assetstore.unity.com/packages/2d/textures-materials/grotto-escape-ii-86689
+
+5. Болотные пещеры
+	https://assetstore.unity.com/packages/2d/environments/pixel-fantasy-caves-152375
+	https://assetstore.unity.com/packages/2d/textures-materials/water/underwater-fantasy-87457
+6. Босс болот
+	https://assetstore.unity.com/packages/2d/textures-materials/grotto-escape-ii-86689
+
+7. Конец темного леса
+	https://assetstore.unity.com/packages/2d/environments/pixel-dark-forest-136825
+
+8. Заброщеная деревня
+	https://assetstore.unity.com/packages/2d/environments/pixel-lost-game-scene-136069
+	https://assetstore.unity.com/packages/2d/characters/gothicvania-town-101407
+
+9. Кладбище
+	https://assetstore.unity.com/packages/2d/characters/gothicvania-cemetery-120509
+	https://assetstore.unity.com/packages/2d/environments/pixel-art-platformer-village-props-166114
+
+10. Церковь
+	https://assetstore.unity.com/packages/2d/characters/gothicvania-church-pack-147117
+	https://assetstore.unity.com/packages/2d/textures-materials/tiles/pixel-2d-castle-tileset-135397
+
+11. Шахта
+	https://assetstore.unity.com/packages/2d/environments/mine-tileset-43476
+	https://assetstore.unity.com/packages/2d/environments/pixel-fantasy-caves-152375
+	https://assetstore.unity.com/packages/2d/characters/sunny-land-forest-108124
+
+12. Замок
+13. Босс в замке
+	https://assetstore.unity.com/packages/2d/environments/medieval-pixel-art-asset-free-130131
+	https://assetstore.unity.com/packages/2d/textures-materials/tiles/pixel-2d-castle-tileset-135397
+	https://assetstore.unity.com/packages/2d/environments/rogue-fantasy-castle-164725
+	https://assetstore.unity.com/packages/2d/environments/2d-death-traps-free-20706
+
+14. Концовка
+	https://assetstore.unity.com/packages/2d/textures-materials/nature/forest-scene-84690
+	https://assetstore.unity.com/packages/2d/textures-materials/nature/alien-tile-set-116827
